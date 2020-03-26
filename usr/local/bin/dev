@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+setxkbmap be
+update
+sudo pacman -S sublime-text-dev
